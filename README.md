@@ -22,3 +22,14 @@ I believe in the continuous learning process, and I'm always exploring new techn
 I am open to collaboration on exciting projects. If you have an idea or project in mind, let's connect and bring it to life!
 
 Thanks for visiting my GitHub profile! Happy coding! 🚀
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TanvirHasanPrince)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirHasanPrince)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TanvirHasanPrince&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/TanvirHasanPrince)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=TanvirHasanPrince)  
