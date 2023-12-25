@@ -28,6 +28,4 @@ Thanks for visiting my GitHub profile! Happy coding! 🚀
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TanvirHasanPrince&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/TanvirHasanPrince)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=TanvirHasanPrince)  
