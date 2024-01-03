@@ -14,6 +14,7 @@ I am a passionate MERN stack web developer with a strong background in creating 
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvir-hasan-prince-608848aa/)
 - Twitter: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tanvir_h_prince)
 - Email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t.hasan.prince@gmail.com)
+- YouTube: [![YouTube Channel](https://img.youtube.com/vi/devPrince-official/0.jpg)](https://www.youtube.com/devPrince-official)
 
 ### 🌱 Always Learning
 I believe in the continuous learning process, and I'm always exploring new technologies and improving my skills to stay at the forefront of web development.
