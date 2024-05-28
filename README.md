@@ -5,7 +5,7 @@ I'm a passionate product engineer who thrives on solving real-world problems wit
 
 My expertise lies in crafting robust, user-friendly applications that deliver exceptional experiences. Whether it's building dynamic frontend interfaces with React or Angular, architecting scalable backend systems with Express.js or Nest.js, or designing efficient database schemas with MongoDB or PostgreSQL, I'm always up for a challenge.
 
-I'm always open to collaboration and new opportunities. Whether you're interested in discussing a project, sharing ideas, or just saying hello, feel free to reach out!
+
 
 ### 💻 Tech Stack
 - **Frontend**: ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white), ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white), ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black),
