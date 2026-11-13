@@ -34,10 +34,7 @@ My goal is to develop strong analytical and research skills that bridge theory a
 - Small research and replication projects  
 - Learning resources related to economics  
 
----
 
-### 📫 Let's Connect
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvir-hasan-prince-608848aa/)
 
 
 
